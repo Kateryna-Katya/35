@@ -1,8 +1,3 @@
-/**
- * ПОЛНЫЙ СКРИПТ САЙТА <?= $domainTitle ?>
- * Включает: Particle Network, Mobile Menu, Scroll Animations, Form Logic, Cookies
- */
-
 document.addEventListener('DOMContentLoaded', () => {
     
     // --- 1. ИНИЦИАЛИЗАЦИЯ ИКОНОК (LUCIDE) ---

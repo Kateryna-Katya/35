@@ -1,9 +1,9 @@
 :root {
-    --bg-light: #ffffff;
-    --bg-alt: #f8f9fa;
-    --accent: #3b82f6;
-    --accent-soft: #a855f7;
-    --text-main: #1a1a1a;
+    --bg-light: #8d8686;
+    --bg-alt: #faf9f9;
+    --accent: #f03bf6;
+    --accent-soft: #542d79;
+    --text-main: #292323;
     --text-muted: #666666;
     --glass: rgba(255, 255, 255, 0.7);
     --container: 1200px;
